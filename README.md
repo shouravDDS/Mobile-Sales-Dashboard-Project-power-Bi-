@@ -8,4 +8,5 @@ I've built this comprehensive Mobile Sales Data Dashboard, where you can easily 
 Thanks to his expert guidance, I was able to master Power BI and create this dynamic, data-driven dashboard.
 
 #PowerBI #DataAnalytics #MobileSales #SkillCourse #DataVisualization #LearningJourney #SalesAnalysis #BusinessIntelligence #PowerBICommunity
+<img width="1402" height="788" alt="image" src="https://github.com/user-attachments/assets/8ed75d77-731f-4399-876e-ca861ca2575d" />
 
